@@ -1,2 +1,1 @@
-# Auto-trading
-Exp1
+bot.py
